@@ -22,4 +22,5 @@ I have just started to create a portfolio on Github and I look forward to learni
 I'll be adding things periodically to grow my portfolio, so if it seems barren, please bear with me!
 
 🌱 I’m currently learning ... how to use Github! Also learning FINRA SIE and Series 7 & 66!
+
 Skills: Python, R, Tableau, SAS, SQL, MATLAB
