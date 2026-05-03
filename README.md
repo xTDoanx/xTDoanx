@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a data analyst with a high interest in Data, visualizations, and graphic design.
+I have just started to create a portfolio on Github and I look forward to learning a lot more as I go!
+
+Skills: Python, R, Tableau, SAS, SQL, MATLAB
